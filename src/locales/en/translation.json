@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "partners": "Partners",
+    "contact": "Contact",
+    "cta": "Get in touch"
+  },
+  "hero": {
+    "eyebrow": "◆ PROFESSIONAL LOGISTICS SERVICES",
+    "title1": "Professional",
+    "titleHighlight": "Delivery",
+    "title2": "and Consultation Services",
+    "description": "\"Too Far Logistics and Consulting\" LLC provides consulting services on the registration of BAQM in the AQTA and to determine the possibility of registration of preparations as BAQM, in a short time by the Analytical Expertise Center.",
+    "bulletPoints": [
+      "Obtaining an opinion from the AEM in an operational manner",
+      "Registration of the BAQM in the AQTA as soon as possible",
+      "Obtaining a sales certificate for IGM from the AQTA",
+      "Obtaining an AQTA certificate during the import process of BAQM"
+    ]
+  },
+  "stats": {
+    "partners": "Partners",
+    "expeditors": "Expeditors",
+    "deliveries": "Deliveries",
+    "experience": "Years Exp."
+  },
+  "marquee": {
+    "items": ["City Delivery", "Intercity Delivery", "Corporate Catering", "Consulting", "AQTA Registration", "Lab Delivery", "Certification"]
+  },
+  "business": {
+    "eyebrow": "◆ OUR SERVICES",
+    "heading": "Just place an order, we will deliver your products to the laboratory.",
+    "description": "Entrepreneurs operating in the field of food industry can use the services provided through the mobile application and order an expeditor.",
+    "orderBtn": "Order now"
+  },
+  "features": {
+    "cityDelivery": "Delivery within the city",
+    "cityDeliveryDesc": "Delivery of food samples for entrepreneurs operating in Baku and Absheron",
+    "intercityDelivery": "Intercity delivery",
+    "intercityDeliveryDesc": "Delivery of food samples for entrepreneurs operating in the regions",
+    "catering": "Catering Service",
+    "cateringDesc": "Providing quality food service to over 1,000 employees of our clients on a daily basis."
+  },
+  "process": {
+    "eyebrow": "◆ HOW IT WORKS",
+    "heading": "Simple and",
+    "headingHighlight": "Fast",
+    "headingSuffix": "process",
+    "steps": [
+      { "title": "Register", "desc": "Sign up via our mobile app" },
+      { "title": "Order", "desc": "Enter your sample details" },
+      { "title": "Pickup", "desc": "Expeditor collects the sample" },
+      { "title": "Result", "desc": "Delivered to the laboratory" }
+    ]
+  },
+  "extraServices": {
+    "heading": "Additional Services",
+    "intro": "In addition, we offer a number of additional services to our clients.",
+    "items": [
+      "Design of food production facilities",
+      "Provision of consultancy services in the field of food supply",
+      "Training against food safety and food fraud",
+      "Conducting multi-module trainings on the stages of food production",
+      "Training on international requirements of HACCP principles",
+      "Training on international requirements of PRP advanced international practices",
+      "Organization of documentation for import and export processes of animal feed",
+      "Organization of documentation for import and export processes of veterinary preparations",
+      "Organization of documentation for registration and import processes of seeds",
+      "Organization of documentation for registration and import of agrochemicals",
+      "Organization of documentation for registration and import of pesticides",
+      "Expertise of documents for obtaining hygienic certificates for non-food products",
+      "Collection of relevant documents related to the disposal of animals",
+      "Involvement of personnel in contact with food and food products in medical examinations",
+      "Providing consultancy services for obtaining food registry extracts for enterprises"
+    ]
+  },
+  "billing": {
+    "heading": "Modern Solutions",
+    "description": "With the new mobile application, you can simply register and enter:",
+    "items": [
+      "Company name",
+      "TIN",
+      "Address registered with AQTA for sample collection",
+      "Details of the responsible person participating in the sample collection process",
+      "Number of samples",
+      "Product name"
+    ],
+    "afterItems": "We have more than 50 special vehicles available for delivery according to your choice. From the moment you place the order, you will be able to see the date and time of the pick up."
+  },
+  "cardDeal": {
+    "heading": "Detailed reports about your orders.",
+    "description": "For each order you make, we are registering the data and when you need it you can get the daily, weekly, monthly and yearly transparent reports."
+  },
+  "showcase": {
+    "eyebrow": "◆ ABOUT US",
+    "heading": "About Us",
+    "description": "\"TOO FAR Logistics\" LLC was established in 2022. Our mission is to provide entrepreneurs in the food industry the ability to track the delivery of their product samples to laboratories through our platform.",
+    "checklist": [
+      "KOBIA startup certificate",
+      "Operating with AQTA support",
+      "1000+ partners",
+      "50+ specialized vehicles",
+      "Active service"
+    ],
+    "badge": "Since 2022"
+  },
+  "testimonials": {
+    "heading1": "Don't miss the opportunity",
+    "heading2": "to be partner with us.",
+    "description": "Now you can also register from our app to become partner with us and ensure fast and safe delivery of your food products.",
+    "partnersTitle": "Our Partners"
+  },
+  "cta": {
+    "heading": "Order an expeditor right now!",
+    "description": "Deliver your product samples faster, safer and under the right conditions.",
+    "getApp": "Get the app!"
+  },
+  "contact": {
+    "eyebrow": "◆ CONTACT",
+    "heading": "Get in",
+    "headingHighlight": "touch",
+    "headingSuffix": "with us",
+    "cta": "Send a message",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "addressValue": "110 Samad Vurgun, Baku 1000"
+  },
+  "getStarted": {
+    "line1": "Contact",
+    "line2": "us now"
+  },
+  "footer": {
+    "tagline": "Urgent and operative service for delivering your food samples to laboratories.",
+    "contactTitle": "Contact",
+    "linksTitle": "Useful Links",
+    "mobileApp": "Mobile App",
+    "copyright": "Copyright Ⓒ 2024 TOOFAR LOGİSTİCS MMC. All Rights Reserved."
+  }
+}

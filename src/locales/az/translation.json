@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "home": "Ana Səhifə",
+    "about": "Haqqımızda",
+    "services": "Xidmətlər",
+    "partners": "Partnyorlar",
+    "contact": "Əlaqə",
+    "cta": "Bizimlə əlaqə"
+  },
+  "hero": {
+    "eyebrow": "◆ PROFESSİONAL LOGİSTİKA XİDMƏTLƏRİ",
+    "title1": "Peşəkar",
+    "titleHighlight": "Çatdırılma",
+    "title2": "və Konsultasiya Xidməti",
+    "description": "\"Too Far Logistics and Consulting\" MMC, BAQM-nin AQTA qeydiyyatı və preparatların BAQM kimi qeydiyyatdan keçmə imkanını müəyyən etmək üçün, Analitik Ekspertiza Mərkəzi tərəfindən qısa zamanda rəy alınması üzrə konsultasiya xidməti göstərir.",
+    "bulletPoints": [
+      "AEM-dən operativ qaydada rəy alınması",
+      "AQTA-da BAQM-in ən tez zamanda qeydiyyata alınması",
+      "AQTA-dan BAQM-lara satış sertifkatının alınması",
+      "BAQM-nın idxal prosesində AQTA sertifikatı alınması"
+    ]
+  },
+  "stats": {
+    "partners": "Partnyorlar",
+    "expeditors": "Ekspeditorlar",
+    "deliveries": "Çatdırılma",
+    "experience": "İl Təcrübə"
+  },
+  "marquee": {
+    "items": ["Şəhər daxili çatdırılma", "Şəhərlər arası çatdırılma", "Korporativ Keytrinq", "Konsultasiya", "AQTA Qeydiyyatı", "Laboratuvar Çatdırılma", "Sertifikatlaşma"]
+  },
+  "business": {
+    "eyebrow": "◆ XİDMƏTLƏRİMİZ",
+    "heading": "Sadəcə sifariş verin, məhsullarınızı laboratoriyaya biz çatdırarıq.",
+    "description": "Mobil tətbiq üzərindən qida sahəsində fəaliyyət göstərən sahibkarlar təqdim edilən xidmətlərdən yararlanaraq, ekspeditor sifariş edə bilərlər.",
+    "orderBtn": "Sifariş edin"
+  },
+  "features": {
+    "cityDelivery": "Şəhər daxili çatdırılma",
+    "cityDeliveryDesc": "Bakı və Abşeron ərazisində fəaliyyət göstərən sahibkarlar üçün qida nümunələrinin çatdırılması",
+    "intercityDelivery": "Şəhərlər arası çatdırılma",
+    "intercityDeliveryDesc": "Bölgələrdə fəaliyyət göstərən sahibkarlar üçün qida nümunələrinin çatdırılması",
+    "catering": "Korporativ Keytrinq Servisi",
+    "cateringDesc": "Müştərilərimizin 1000-dən çox əməkdaşlarına gündəlik olaraq keyfiyyətli qidalanma xidmətinin göstərilməsi."
+  },
+  "process": {
+    "eyebrow": "◆ NECƏ İŞLƏYİR",
+    "heading": "Sadə və",
+    "headingHighlight": "Sürətli",
+    "headingSuffix": "proses",
+    "steps": [
+      { "title": "Qeydiyyat", "desc": "Mobil tətbiqdən qeydiyyatdan keçin" },
+      { "title": "Sifariş", "desc": "Nümunə məlumatlarını daxil edin" },
+      { "title": "Çatdırılma", "desc": "Ekspeditor nümunəni götürür" },
+      { "title": "Nəticə", "desc": "Laboratoriyaya təhvil verilir" }
+    ]
+  },
+  "extraServices": {
+    "heading": "Əlavə Xidmətlərimiz",
+    "intro": "Bununla yanaşı müştərilərimizə bir sıra əlavə xidmətlər də təklif edirik.",
+    "items": [
+      "Qida istehsalı müəssisələrinin layihələndirilməsi",
+      "Qida təminatı sahəsi üzrə konsultativ xidmətlərin göstərilməsi",
+      "Qida təhlükəsizliyi və qida saxtarkarlığı əlehinə təlimlərin keçirilməsi",
+      "Qida istehsalının mərhələləri üzrə müxtəlif modullu təlimlərin keçirilməsi",
+      "HACCP prinsiplərinə dair beynəlxalq tələblər üzrə təlimlərin keçirilməsi",
+      "PRP qabaqcıl beynəlxalq təcrübələrə dair beynəlxalq tələblər üzrə təlimlərin keçirilməsi",
+      "Heyvan yemlərinin idxal və ixrac proseslərinə dair sənədləşmə işlərinin təşkil edilməsi",
+      "Baytarlıq preparatlarının idxal və ixrac proseslərinə dair sənədləşmə işlərinin təşkil edilməsi",
+      "Toxumların qeydiyyatı və idxal proseslərinə dair sənədləşmə işlərinin təşkil edilməsi",
+      "Aqrokimyəvi maddələrin qeydiyyatı və idxal proseslərinə dair sənədləşmə işlərinin təşkil edilməsi",
+      "Pestisidlərin qeydiyyatı və idxal proseslərinə dair sənədləşmə işlərinin təşkil edilməsi",
+      "Qeyri-qida məhsullarına dair gigiyenik sertifikatların alınması üçün sənədlərin ekspertizası",
+      "Heyvanların utilizasiyası ilə bağlı olaraq müvafiq sənədlərin toplanması",
+      "Qida və qida məhsulları ilə təmasda olan heyətin tibbi müayinələrə cəlb edilməsi",
+      "Qida məhsullarının istehsalı, emalı və qablaşdırması ilə məşğul olan müəssisələr üçün qida reystr çıxarışının alınması dair konsultativ xidmətlərin göstərilməsi"
+    ]
+  },
+  "billing": {
+    "heading": "Müasir həllər",
+    "description": "Yeni mobil tətbiq vasitəsi ilə qeydiyyatdan keçmək üçün aşağıdakı məlumatlar daxil edilməlidir:",
+    "items": [
+      "Şirkətin adı",
+      "VÖEN",
+      "Nümunə götürüləcək AQTA qeydiyyatında olan ünvan",
+      "Nümunə götürmə prosesində iştirak edən məsul şəxsin məlumatları",
+      "Nümunə sayı",
+      "Məhsulun adı"
+    ],
+    "afterItems": "Daha sonra partnyorlar üçün təqdim edilən 50-dən çox xüsusi yük daşıma vasitələrimizdən biri Sizin seçiminizə uyğun olaraq təyin edilir. Siz sifarişi verdiyiniz andan ekspeditorun gəlmə tarixini və eləcədə nümunələri təhvil verdikdən sonra şəffaf şəkildə daimi olaraq statusu izləyə bilərsiniz."
+  },
+  "cardDeal": {
+    "heading": "Sifarişləriniz haqqında ətraflı hesabatlar.",
+    "description": "Sizin sifarişləriniz üzrə qeydiyyat aparılır və arzu etdiyiniz zaman günlük, həftəlik, aylıq və illik şəffaf hesabatları əldə edə bilərsiniz."
+  },
+  "showcase": {
+    "eyebrow": "◆ HAQQIMIZDA",
+    "heading": "Haqqımızda",
+    "description": "\"TOO FAR Logistics\" Məhdud Məsuliyyətli Cəmiyyət 2022-ci ildə fəaliyyətə başlamışdır. Missiyamız - təqdim etdiyimiz platforma üzərindən, ölkədə qida sahəsində fəaliyyət göstərən sahibkarlara nümunəsi götürülən məhsullarının laboratoriyalara çatdırılması prosesini müşahidə etmək imkanı yaratmaqdır.",
+    "checklist": [
+      "KOBİA startap şəhadətnaməsi",
+      "AQTA-nın dəstəyi ilə fəaliyyət",
+      "1000+ partnyor",
+      "50+ xüsusi nəqliyyat vasitəsi",
+      "Aktiv xidmət"
+    ],
+    "badge": "2022-dən bəri"
+  },
+  "testimonials": {
+    "heading1": "Bizimlə partnyor olmaq",
+    "heading2": "şansını qaçırmayın!",
+    "description": "Siz də, elə indicə tətbiqimiz vasitəsilə qeydiyyatdan keçib, bizimlə partnyor olmaq yolunda ilk addımınızı ataraq, qida məhsullarınızın təhlükəsiz və sürətli çatdırılmasını bizə həvalə edə bilərsiniz.",
+    "partnersTitle": "Partnyorlarımız"
+  },
+  "cta": {
+    "heading": "Elə indi ekspeditor sifariş edin",
+    "description": "Məhsul nümunələrinizin lazımı şərtlər altında, daha sürətli və təhlükəsiz olaraq çatdıraq.",
+    "getApp": "Tətbiqi əldə edin!"
+  },
+  "contact": {
+    "eyebrow": "◆ ƏLAQƏ",
+    "heading": "Bizimlə",
+    "headingHighlight": "əlaqə",
+    "headingSuffix": "saxlayın",
+    "cta": "Mesaj göndərin",
+    "phone": "Telefon",
+    "email": "E-poçt",
+    "address": "Ünvan",
+    "addressValue": "110 Samad Vurgun, Bakı 1000"
+  },
+  "getStarted": {
+    "line1": "Əlaqə",
+    "line2": "Saxlayın"
+  },
+  "footer": {
+    "tagline": "Qida nümunələrinin laboratoriyalara çatdırılması üçün təcili və operativ xidmətin ünvanı",
+    "contactTitle": "Əlaqə",
+    "linksTitle": "Keçidlər",
+    "mobileApp": "Mobil Tətbiq",
+    "copyright": "Copyright Ⓒ 2024 TOOFAR LOGİSTİCS MMC. All Rights Reserved."
+  }
+}
